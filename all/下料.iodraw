@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.2" pages="2">
   <diagram id="TV0VW8UFilPqdaBh6UZ-" name="下料模块取料">
-    <mxGraphModel dx="1428" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1264" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,6 +103,25 @@
         </mxCell>
         <mxCell id="hAyPgByhESnm61lInBXU-29" value="取料完成" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="上料模块下料" id="0znSV1DzZYISRMmEEDt-">
+    <mxGraphModel dx="1264" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="Kr2sABT-bvlG16CRsQ6y-0" />
+        <mxCell id="Kr2sABT-bvlG16CRsQ6y-1" parent="Kr2sABT-bvlG16CRsQ6y-0" />
+        <mxCell id="Kr2sABT-bvlG16CRsQ6y-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Kr2sABT-bvlG16CRsQ6y-1" source="Kr2sABT-bvlG16CRsQ6y-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kr2sABT-bvlG16CRsQ6y-3" value="放料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Kr2sABT-bvlG16CRsQ6y-1">
+          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlnVTN1YmVJNsCpQ06SI-1" value="初始化梭车引" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Kr2sABT-bvlG16CRsQ6y-1">
+          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
