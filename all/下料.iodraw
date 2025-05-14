@@ -1,1 +1,110 @@
-<mxfile host="www.iodraw.com" modified="2024-12-10T05:39:33.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" etag="4MT7wOaBvqAEipxAW5_y" version="13.3.6"><diagram id="TV0VW8UFilPqdaBh6UZ-" name="第 1 页">3Vpdj5s4FP01fpwKYz7MI0nIbLWtVGm02s4jEzyBFYkjh0xCf31tbCCAk9JOAsxKUYSvDYbjc+89vgDQfHN6ZOEu/kojkgLTiE4ALYBpQss0gfgZUS4trulIw5olkRpUG56SH0QZDWU9JBHZNwZmlKZZsmsaV3S7JausYQsZo8fmsFeaNmfdhWvSMTytwrRr/TeJslhasenW9r9Iso7LmaHjyZ5NWA5Wl9jHYUSP0lQ8HAoAmjNKM3m0Oc1JKsArcZEILC/0VjfGyDbrc0Ls59/WszwOnrYbB6aft7Pv/zxAtRpvYXpQT6zuNstLCEjEEVFNyrKYruk2TIPaOmP0sI2ImMfgrXrMF0p33Ai58T+SZbla3vCQUW6Ks02qervPUoJGD2xFrjyAut0sZGuSXRmH5DjxLGcTKKQeCd2QjOV8ACNpmCVvzdUPFYnW1bgaZ36goP4N2M0u6oEN8BJ4Dggc8e95nXWoURaQHeMkI0+7sEDnyJ2vJ6JvhGXkdBUD1Ysc5YPKdaEimHGsHaGyxWdOUJ53c9igq8GNY4WBv/xYtEU9aQvhpHiLtPj7JvAXIMBgtgC+UzCZHxuFJRC/DpNjunk57IdhMW6y2LS6LMYaEuO7kdj74CHX6cldd1LUNa1JwM7RZvn388azuNgnu2wuTurispWr1v2Xy7v1cqlTv9GE33Llj2bLH2275WjyRtVZrUWvbuPPeaARPHXqxQAjEcVEUrFE5Ar4PzfOQOACzwfYmm56tvHY6bmcrJ2eXeAbHyvEuT19Bk8qxOnVUTs7l3qJs94zCgvvWgqj6JoD7F3h+IiJ29Hwe9DEjTXweoBPxwODCA9L4NsX5JCMLjbwA4Dnk4sceHRhjzSR40MFDK9nwDBvnmXfhbsFu7hXUUC3AF/CF5I2QQvTZL3lxysOGmHcIIiYrMLUVx2bJIrk+pB98iN8Ka4nVmgncnzxSPYM2AvtAlynS5vyVR1IzQLOSy06V3gwPnH6K2n4p8qmHEJfX/fk3aLl7+e39Jl9Zi9xcpg/Wji10weNdh0zsVYi9ky3Pp/33VzE9vWvsmw4Ef/SbPVkOhB5QUpLo1hJnilgkTJclZq59lRis5WsJ5WjIWppUHfkHG1qNNCoDjLULq8k/ggVJf0+D8EmNSw07D4P6jYjRWUKu8J58EIIta5cG1ucwRZuyBtbnEGd8L0mEiar0kru/9JJnEllEWRONf0PFt36Lhw0h4luttWKbubA0e2acH9fGWvELT4ae4uP/j+hbiBHcLyWAhw4zVu6ND+F2Niq77t3DI5mz+A4EiVgzwq/z1iYnw1T5YH+8zh2i2HyircNvBdy8aVdmlccFO9CuR3DQoMawDOLKF3s86YVkx17ajF5Gi/uLkL7a01ijRSKvdaSyEhyP01y4esAvq1CRUkDi5/0EXXALdYEv3xx2mUNNPYeDE3jO63h316XzjP8lk3vZBa2GtRw4MDC/0IpWMr86sub30w7viu2C1NzO8cZ2+3K1zXXP9SrXuyJshIGXld4jl1EuucbPt6sP2KVNK8/BUbBTw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.2">
+  <diagram id="TV0VW8UFilPqdaBh6UZ-" name="下料模块取料">
+    <mxGraphModel dx="1428" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hAyPgByhESnm61lInBXU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hAyPgByhESnm61lInBXU-2" target="hAyPgByhESnm61lInBXU-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-2" value="取料" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-17" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hAyPgByhESnm61lInBXU-3" target="hAyPgByhESnm61lInBXU-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-3" value="梭车到达" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hAyPgByhESnm61lInBXU-6" target="hAyPgByhESnm61lInBXU-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hAyPgByhESnm61lInBXU-6" target="hAyPgByhESnm61lInBXU-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-6" value="取能放下的料" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-20" value="无" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hAyPgByhESnm61lInBXU-7" target="hAyPgByhESnm61lInBXU-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-7" value="梭车是否还有料" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-8" value="通知梭车取完" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hAyPgByhESnm61lInBXU-9" target="hAyPgByhESnm61lInBXU-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-41" value="有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hAyPgByhESnm61lInBXU-30" vertex="1" connectable="0">
+          <mxGeometry x="-0.2824" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hKYvlYrIrbhiuCG48l5l-4" value="无" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="hAyPgByhESnm61lInBXU-9" target="hAyPgByhESnm61lInBXU-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-9" value="另一条路径是否有料" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hAyPgByhESnm61lInBXU-10" target="hAyPgByhESnm61lInBXU-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-10" value="切换梭车" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-18" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hAyPgByhESnm61lInBXU-11" target="hAyPgByhESnm61lInBXU-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-32" value="无" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hAyPgByhESnm61lInBXU-11" target="hAyPgByhESnm61lInBXU-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-11" value="有能放下的料" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-38" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hAyPgByhESnm61lInBXU-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-40" value="无" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="hAyPgByhESnm61lInBXU-12" target="hAyPgByhESnm61lInBXU-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-12" value="是否有需要倒腾的料" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="hAyPgByhESnm61lInBXU-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-13" value="正常吸嘴取料" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hAyPgByhESnm61lInBXU-14" target="hAyPgByhESnm61lInBXU-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="484" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-14" value="放到需要倒腾的槽" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hAyPgByhESnm61lInBXU-29" value="取料完成" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
