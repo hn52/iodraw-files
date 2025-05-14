@@ -108,7 +108,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="上料模块下料" id="0znSV1DzZYISRMmEEDt-">
-    <mxGraphModel dx="1264" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1428" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="Kr2sABT-bvlG16CRsQ6y-0" />
         <mxCell id="Kr2sABT-bvlG16CRsQ6y-1" parent="Kr2sABT-bvlG16CRsQ6y-0" />
@@ -120,8 +120,35 @@
         <mxCell id="Kr2sABT-bvlG16CRsQ6y-3" value="放料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Kr2sABT-bvlG16CRsQ6y-1">
           <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PlnVTN1YmVJNsCpQ06SI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Kr2sABT-bvlG16CRsQ6y-1" source="PlnVTN1YmVJNsCpQ06SI-1" target="PlnVTN1YmVJNsCpQ06SI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PlnVTN1YmVJNsCpQ06SI-1" value="初始化梭车引" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Kr2sABT-bvlG16CRsQ6y-1">
-          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlnVTN1YmVJNsCpQ06SI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Kr2sABT-bvlG16CRsQ6y-1" source="PlnVTN1YmVJNsCpQ06SI-2" target="Kr2sABT-bvlG16CRsQ6y-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlnVTN1YmVJNsCpQ06SI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Kr2sABT-bvlG16CRsQ6y-1" source="PlnVTN1YmVJNsCpQ06SI-2" target="PlnVTN1YmVJNsCpQ06SI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlnVTN1YmVJNsCpQ06SI-2" value="吸嘴是否有料" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="Kr2sABT-bvlG16CRsQ6y-1">
+          <mxGeometry x="370" y="240" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PlnVTN1YmVJNsCpQ06SI-5" value="获取下料路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Kr2sABT-bvlG16CRsQ6y-1">
+          <mxGeometry x="360" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlnVTN1YmVJNsCpQ06SI-7" value="移到其中一条路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Kr2sABT-bvlG16CRsQ6y-1">
+          <mxGeometry x="360" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlnVTN1YmVJNsCpQ06SI-8" value="吸嘴下降" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Kr2sABT-bvlG16CRsQ6y-1">
+          <mxGeometry x="354" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlnVTN1YmVJNsCpQ06SI-9" value="吸料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Kr2sABT-bvlG16CRsQ6y-1">
+          <mxGeometry x="354" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlnVTN1YmVJNsCpQ06SI-10" value="更新状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Kr2sABT-bvlG16CRsQ6y-1">
+          <mxGeometry x="350" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
